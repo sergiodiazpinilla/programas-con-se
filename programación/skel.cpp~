@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(){
+   int vidas= 1,
+       total = vidas +  5;
+
+
+   printf("Te quedan %i \n",total);   
+
+    
+    return EXIT_SUCCESS;
+}
